@@ -21,7 +21,7 @@ const style = {
 
 const Header = () => {
   return (
-    <div class={style.container}>
+    <div className={style.container}>
       {/* Logo and Opensea Text */}
       <Link href="/">
         <div class={style.logoContainer}>

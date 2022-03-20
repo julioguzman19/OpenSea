@@ -1,5 +1,4 @@
 import Header from "../components/Header";
-import styles from "../styles/Home.module.css";
 
 // Run Code: npx next dev
 
