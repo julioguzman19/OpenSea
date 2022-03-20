@@ -1,9 +1,8 @@
-import '../styles/globals.css'
-
-// Run Code: npx next dev
+import "../styles/globals.css";
+import "bootstrap/dist/css/bootstrap.css";
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return <Component {...pageProps} />;
 }
 
-export default MyApp
+export default MyApp;
